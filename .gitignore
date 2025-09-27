@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos pesados (ajusta según uses)
+data/
+*.tif
+*.tiff
+*.geotiff
+*.zip
+*.csv
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qpj
